@@ -1,8 +1,6 @@
 /* 
 
-
 Handler Básico oficial na documentação do Discord.js (Apenas para Testes);
-
 
 */
 
