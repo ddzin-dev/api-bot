@@ -1,2 +1,10 @@
-# api-bot
-API Oficial da Sun Lab's - Contar Servidores
+# API de Contar servidores
+
+> Documentação (Não-disponível)
+
+```
+
+Inderux Services - Open Source Code - License MIT
+
+```
+
